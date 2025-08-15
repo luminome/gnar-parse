@@ -1,0 +1,1 @@
+Parse a JSON digest exported from WordPress into slightly more managable parts.
